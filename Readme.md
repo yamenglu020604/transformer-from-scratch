@@ -34,7 +34,7 @@ assignment-transformer/
 
 **Step 1: Clone the repository**
 ```bash
-git clone <your-repo-link>
+git clone < https://github.com/yamenglu020604/transformer-from-scratch.git >
 cd assignment-transformer
 ```
 
